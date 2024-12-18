@@ -1,0 +1,246 @@
+[
+    {
+        "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+        "choice1": "src",
+        "choice2": "alt",
+        "choice3": "title",
+        "choice4": "href",
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of the '<fieldset>' element in HTML?",
+        "choice1": "To group related elements in a form",
+        "choice2": "To define a table",
+        "choice3": "To style elements with CSS",
+        "choice4": "To define a navigation bar",
+        "answer": 1
+    },
+    {
+        "question": "In CSS, what does the 'box-shadow' property do?",
+        "choice1": "Adds a shadow inside the element's border",
+        "choice2": "Adds a shadow outside the element's border",
+        "choice3": "Adds a shadow to the text",
+        "choice4": "None of the above",
+        "answer": 2
+    },
+    {
+        "question": "What will the following JavaScript code output? `console.log(0.1 + 0.2 === 0.3);`",
+        "choice1": "true",
+        "choice2": "false",
+        "choice3": "undefined",
+        "choice4": "NaN",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following pseudo-classes is used to style an element that has been visited by the user?",
+        "choice1": ":active",
+        "choice2": ":hover",
+        "choice3": ":link",
+        "choice4": ":visited",
+        "answer": 4
+    },
+    {
+        "question": "In JavaScript, how do you call a function named 'myFunction'?",
+        "choice1": "call myFunction();",
+        "choice2": "call function myFunction();",
+        "choice3": "myFunction();",
+        "choice4": "function myFunction();",
+        "answer": 3
+    },
+    {
+        "question": "What does the 'defer' attribute do in the '<script>' tag?",
+        "choice1": "Stops the script from executing",
+        "choice2": "Delays script execution until after the page has loaded",
+        "choice3": "Executes the script immediately",
+        "choice4": "Makes the script load synchronously",
+        "answer": 2
+    },
+    {
+        "question": "Which CSS property is used to create a flexible layout that adjusts based on screen size?",
+        "choice1": "display: grid;",
+        "choice2": "display: flex;",
+        "choice3": "display: block;",
+        "choice4": "display: inline;",
+        "answer": 2
+    },
+    {
+        "question": "What will the following code output? `console.log(typeof null);`",
+        "choice1": "null",
+        "choice2": "object",
+        "choice3": "undefined",
+        "choice4": "string",
+        "answer": 2
+    },
+    {
+        "question": "Which JavaScript method is used to add one or more elements to the end of an array?",
+        "choice1": "push()",
+        "choice2": "pop()",
+        "choice3": "concat()",
+        "choice4": "shift()",
+        "answer": 1
+    },
+ {
+        "question": "Which HTML element is used to embed a JavaScript file?",
+        "choice1": "<script>",
+        "choice2": "<javascript>",
+        "choice3": "<code>",
+        "choice4": "<js>",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct syntax to link an external CSS file to an HTML document?",
+        "choice1": "<link rel='stylesheet' href='styles.css'>",
+        "choice2": "<style src='styles.css'>",
+        "choice3": "<css link='styles.css'>",
+        "choice4": "<stylesheet href='styles.css'>",
+        "answer": 1
+    },
+    {
+        "question": "Which CSS property is used to specify the space between the border and the content of an element?",
+        "choice1": "margin",
+        "choice2": "padding",
+        "choice3": "spacing",
+        "choice4": "border-spacing",
+        "answer": 2
+    },
+    {
+        "question": "In JavaScript, what is the output of the following code? `console.log(2 + '2');`",
+        "choice1": "4",
+        "choice2": "22",
+        "choice3": "NaN",
+        "choice4": "undefined",
+        "answer": 2
+    },
+    {
+        "question": "Which HTML5 element is used to define navigation links?",
+        "choice1": "<footer>",
+        "choice2": "<nav>",
+        "choice3": "<header>",
+        "choice4": "<aside>",
+        "answer": 2
+    },
+    {
+        "question": "What does the 'overflow: hidden;' property do in CSS?",
+        "choice1": "Hides the element",
+        "choice2": "Hides content that overflows outside the element's box",
+        "choice3": "Adds a scroll bar to the element",
+        "choice4": "Prevents resizing of the element",
+        "answer": 2
+    },
+    {
+        "question": "How can you add a comment in JavaScript?",
+        "choice1": "# This is a comment",
+        "choice2": "// This is a comment",
+        "choice3": "<!-- This is a comment -->",
+        "choice4": "/* This is a comment */",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is NOT a valid JavaScript loop?",
+        "choice1": "for",
+        "choice2": "while",
+        "choice3": "foreach",
+        "choice4": "do-while",
+        "answer": 3
+    },
+    {
+        "question": "Which CSS property is used to control the stacking order of elements?",
+        "choice1": "z-index",
+        "choice2": "order",
+        "choice3": "position",
+        "choice4": "layer",
+        "answer": 1
+    },
+    {
+        "question": "In JavaScript, which operator is used to compare both value and type?",
+        "choice1": "==",
+        "choice2": "===",
+        "choice3": "=",
+        "choice4": "!==",
+        "answer": 2
+    },
+    {
+        "question": "Which HTML element is used to display a scalar measurement within a known range?",
+        "choice1": "<meter>",
+        "choice2": "<progress>",
+        "choice3": "<range>",
+        "choice4": "<input type='number'>",
+        "answer": 1
+    },
+    {
+        "question": "What does the 'transform' property do in CSS?",
+        "choice1": "Changes the size of an element",
+        "choice2": "Changes the position of an element",
+        "choice3": "Applies 2D or 3D transformations to an element",
+        "choice4": "Rotates an element only",
+        "answer": 3
+    },
+    {
+        "question": "What will the following JavaScript code output? `console.log(1 == '1');`",
+        "choice1": "true",
+        "choice2": "false",
+        "choice3": "undefined",
+        "choice4": "NaN",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of the '<datalist>' element in HTML?",
+        "choice1": "To define a list of options for an input element",
+        "choice2": "To create a dropdown menu",
+        "choice3": "To create a list of items",
+        "choice4": "To define a table",
+        "answer": 1
+    },
+    {
+        "question": "Which JavaScript method can be used to convert a JSON string into a JavaScript object?",
+        "choice1": "JSON.stringify()",
+        "choice2": "JSON.parse()",
+        "choice3": "JSON.convert()",
+        "choice4": "JSON.objectify()",
+        "answer": 2
+    },
+    {
+        "question": "Which CSS property controls the amount of space between lines of text?",
+        "choice1": "text-spacing",
+        "choice2": "line-height",
+        "choice3": "letter-spacing",
+        "choice4": "font-size",
+        "answer": 2
+    },
+    {
+        "question": "What will the following code output? `console.log([] + []);`",
+        "choice1": "[]",
+        "choice2": "''",
+        "choice3": "undefined",
+        "choice4": "NaN",
+        "answer": 2
+    },
+    {
+        "question": "What does the 'position: absolute;' property do in CSS?",
+        "choice1": "Positions an element relative to its normal position",
+        "choice2": "Positions an element relative to the nearest positioned ancestor",
+        "choice3": "Positions an element relative to the viewport",
+        "choice4": "Makes the element static",
+        "answer": 2
+    },
+    {
+        "question": "Which HTML5 API allows a website to store data locally on the user's browser?",
+        "choice1": "LocalStorage",
+        "choice2": "SessionStorage",
+        "choice3": "IndexedDB",
+        "choice4": "All of the above",
+        "answer": 4
+    },
+    {
+        "question": "Which JavaScript function is used to delay the execution of code?",
+        "choice1": "setTimeout()",
+        "choice2": "delay()",
+        "choice3": "pause()",
+        "choice4": "wait()",
+        "answer": 1
+    }
+]
+
+
+
+
